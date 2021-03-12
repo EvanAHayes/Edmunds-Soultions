@@ -104,7 +104,7 @@ public class FormatNumbers {
     public void BothNumbers() throws IOException {
         PhoneNumbers();
         SocialSecurityNumbers();
-
+       main();
     }
 
     public boolean isInteger(String str) {
